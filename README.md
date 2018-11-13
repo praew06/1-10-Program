@@ -4,3 +4,11 @@
 [คลิกดูโค๊ด](1-10.txt)
 
 ## C#
+![Image](python.png)
+
+[คลิกดูโค๊ด](c#.txt)
+
+## Python
+![Image](python.png)
+
+[คลิกดูโค๊ด](python.txt)
