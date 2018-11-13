@@ -12,3 +12,13 @@
 ![Image](python.png)
 
 [คลิกดูโค๊ด](python.txt)
+
+## C++
+![Image](c++.png)
+
+[คลิกดูโค๊ด](c++.txt)
+
+## PHP
+![Image](python.png)
+
+[คลิกดูโค๊ด](php.txt)
